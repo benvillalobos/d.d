@@ -1,0 +1,40 @@
+@import url(http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
+body {
+  background-color: #FFFFFF;
+}
+
+.text {
+  font-family: "Arial";
+  text-align: center;
+}
+
+.textSmall {
+  font-size: 15px;
+}
+
+.iconText {
+  padding: 15px;
+}
+
+.title {
+  font-size: 50px;
+  margin-top: 40px;
+  opacity: 0.7;
+  transition: opacity 0.5s;
+}
+
+.icon {
+  transition: opacity 0.3s ease;
+  font-size: 60px;
+  opacity: 0.7;
+  color: #000000;
+  padding: 40px;
+}
+
+.title:hover {
+  opacity: 0.9;
+}
+
+.icon:hover {
+  opacity: 0.9;
+}
