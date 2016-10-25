@@ -28,7 +28,8 @@ body {
   font-size: 60px;
   opacity: 0.7;
   color: #000000;
-  padding: 40px;
+  margin-left: 40px;
+  padding: 2px;
 }
 
 .title:hover {
