@@ -19,21 +19,14 @@ body {
 .title {
   font-size: 50px;
   margin-top: 40px;
-  opacity: 0.7;
-  transition: opacity 0.5s;
+  opacity: 0.9;
 }
 
 .icon {
   transition: opacity 0.3s ease;
-  font-size: 60px;
   opacity: 0.7;
   color: #000000;
-  margin-left: 40px;
-  padding: 2px;
-}
-
-.title:hover {
-  opacity: 0.9;
+  padding: 30px;
 }
 
 .icon:hover {
