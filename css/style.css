@@ -1,38 +1,38 @@
-body {
+body{
   background-color: #FFFFFF;
 }
 
-.text {
+.text{
   font-family: "Arial";
   text-align: center;
 }
 
-.textSmall {
+.textSmall{
   font-size: 15px;
 }
 
-.iconText {
+.iconText{
   padding: 15px;
 }
 
-.title {
+.title{
   font-size: 50px;
   margin-top: 40px;
   opacity: 0.9;
 }
 
-.icon {
+.icon{
   transition: opacity 0.3s ease;
   opacity: 0.7;
   color: #000000;
   margin: 30px;
 }
 
-.icon:hover {
+.icon:hover{
   opacity: 0.9;
 }
 
-.background {
+.background{
     padding: 10px 10px;
     border-radius: 20px;
     box-shadow: 0px 0px 2px #888;
@@ -41,4 +41,35 @@ body {
 
 .tooltip{
   display: inline;
+  position: relative;
+  bottom: 600%;
+  transition: bottom 1s ease;
+}
+
+.tooltip:hover:before{
+  border: solid;
+  border-color: #333 transparent;
+  border-width: 6px 6px 0 6px;
+  bottom: 640%;
+  content: "";
+  left: 50%;
+  transform: translateX(-50%);
+  position: absolute;
+  text-align: center;
+  z-index: 99;
+}
+
+.tooltip:hover:after{
+  background: #333;
+  background: rgba(0, 0, 0, .8);
+  border-radius: 5px;
+  color: #fff;
+  content: attr(tooltiptext);
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 660%;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 98;
+  width: 100%;
 }
