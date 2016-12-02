@@ -22,11 +22,10 @@ body{
 }
 
 .icon{
-  transition: opacity 0.3s ease;
+  transition: opacity 0.28s ease;
   opacity: 0.7;
   color: #000000;
   margin: 30px;
-  font-size: 60px;
 }
 
 .icon:hover{
