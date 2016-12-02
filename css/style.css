@@ -38,7 +38,7 @@ body{
     box-shadow: 0px 0px 2px #888;
     background-color: #FFFFFF;
 }
-/*
+
 .tooltip{
   display: inline;
   position: relative;
@@ -84,4 +84,3 @@ body{
 .tooltip:hover:after {
   opacity: 1;
 }
-*/
