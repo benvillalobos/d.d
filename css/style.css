@@ -44,27 +44,12 @@ body{
   position: relative;
 }
 
-.tooltip:hover:before{
-  border: solid;
-  background: #333;
-  background: rgba(0, 0, 0, 1);
-  border-width: 6px 6px 0 6px;
-  content: "";
-  left: 50%;
-  bottom: 360%;
-  transform: translateX(-50%);
-  position: absolute;
-  text-align: center;
-  z-index: 99;
-  opacity: 0;
-  transition: opacity 0.28s ease;
-}
-
 .tooltip:after{
   background: #333;
   background: rgba(0, 0, 0, 1);
   border-radius: 5px;
   color: #fff;
+  font-family: Arial;
   content: attr(tooltiptext);
   left: 0%;
   bottom: -200%;
@@ -80,4 +65,12 @@ body{
 .tooltip:hover:after {
   opacity: 1;
   transform: translateY(30%);
+}
+
+@media(max-width: 600px) {
+  .tooltip:after {
+    opacity: 1;
+    transform: translateY(30%);
+    transition: transform 0;
+  }
 }
