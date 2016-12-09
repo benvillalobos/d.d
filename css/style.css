@@ -67,7 +67,7 @@ body{
   transform: translateY(30%);
 }
 
-@media(max-width: 600px) {
+@media(max-width: 640px) {
   .tooltip:after {
     opacity: 1;
     transform: translateY(30%);
