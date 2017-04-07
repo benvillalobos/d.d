@@ -9,7 +9,7 @@ window.onload = function () {
 }
 
 function loadJSON(callback) {
-    $.getJSON('mtg/assets/AllCards-x.json', function (json) {
+    $.getJSON('assets/AllCards-x.json', function (json) {
         allCards = json;
         keys = Object.keys(allCards);
         callback();
