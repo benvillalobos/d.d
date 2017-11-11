@@ -9,7 +9,7 @@ window.onload = function () {
 }
 
 function loadJSON(callback) {
-    $.getJSON('assets/AllCards-x.json', function (json) {
+    $.getJSON('http://benvillalobos.com/mtg/assets/AllCards-x.json', function (json) {
         allCards = json;
         keys = Object.keys(allCards);
         callback();
@@ -53,6 +53,9 @@ function displayRandomCard() {
 
     var name = randomCard['name'];
     var cost = randomCard['manaCost'];
+    if (cost) {
+        cost = manaToHTMLString(parseMana(cost));
+    }
     var type = randomCard['type'];
     var mainType = randomCard['types'][0];
     var power = randomCard['power'];
@@ -60,9 +63,7 @@ function displayRandomCard() {
     var set = randomCard['printings'][0];
     var text = randomCard['text'];
 
-    if (cost) {
-        cardElement.append(manaToHTMLString(parseMana(cost)));
-    }
+
 
     cardElement.append(`<div>
             <p>` + name + ' ' + cost + `</p>
