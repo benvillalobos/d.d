@@ -17,7 +17,7 @@ function onYouTubeIframeAPIReady() {
             listType: "playlist",
             list: "PLWSPIDr63LmyH4dwEwT1klALr8R4aWVyP",
             index: randomNumber(60),
-            autoplay: true
+            autoplay: false
         },
         events: {
             'onReady': onPlayerReady,
