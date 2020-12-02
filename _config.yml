@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "Ben Villalobos"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "¯\_ (ツ)_/¯"
-  location         : ""
-  email            :
+  bio              : "¯\\_ (ツ)_/¯"
+  # location         : ""
+  # email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -247,16 +247,16 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+ jekyll-archives:
+   enabled:
+     - categories
+     - tags
+   layouts:
+     category: archive-taxonomy
+     tag: archive-taxonomy
+   permalinks:
+     category: /categories/:name/
+     tag: /tags/:name/
 
 
 # HTML Compression
