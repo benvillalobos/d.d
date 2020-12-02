@@ -1,5 +1,5 @@
 ---
-title: "Sometimes I get Lucky"
+title: "Sometimes I Get Lucky"
 categories:
   - blog
   - self-improvement
