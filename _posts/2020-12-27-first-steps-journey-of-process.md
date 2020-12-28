@@ -7,8 +7,6 @@ categories:
 tags:
 ---
 
-# The First Steps on a Journey of Process
-
 The last few months have been an incredible learning experience. I've discovered many issues with where I'm at and how I'm doing things. To put it simply, I want to do more. It started with falling behind at work. It gave me anxiety. It significantly impacted my mood every single day that I didn't feel "productive" enough. I hated it.
 
 So I took step back and said, "I need to feel better after each day of work. How do I do that?" I took steps toward improving, but I wasn't seeing much progress. So I took another step back and said, "I need to become a better software engineer, how do I do that?" I started reading more, but wasn't seeing much progress. So I took *yet another* step back and said, "I need to manage my time better, how do I do that?" And *finally*, I started seeing progress.
