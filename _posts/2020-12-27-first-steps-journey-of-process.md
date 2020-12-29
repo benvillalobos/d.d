@@ -24,20 +24,18 @@ Ordered by number of unique mentions, descending. Bold items are tips that signi
 
 1. **Prioritize using the Eisenhower Matrix**
 2. **Make use of downtime**
-3. **If a task takes 2~5 minutes, do it immediately**
-4. Just START DOING
-5. **Do the right things (Related to 1)**
-6. **Have a clear finish line**
-7. Schedule creative time
-8. Plan ahead of time
-9. Find a mentor
-10. Carry a notebook
-11. Continually evaluate progress
-12. Be excited!
-13. Dedicate time for reflection
-14. **Use the Pomodoro Technique**
-15. Execute off-peak hours
-16. Use your biological peak time
-17. Do the hardest things first
-18. Link everything to your goals
-19. **Use OKR's**
+3. **The 2 minute rule**
+4. Just start doing
+5. **Have a clear finish line**
+6. Schedule creative time
+7. Plan ahead of time
+8. Find a mentor
+9.  Carry a notebook
+10. Continually evaluate progress
+11. Dedicate time for reflection
+12. **Use the Pomodoro Technique**
+13. Execute off-peak hours
+14. Use your biological peak time
+15. Do the hardest things first
+16. Link everything to your goals
+17. **Use OKR's**
