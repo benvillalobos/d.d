@@ -54,8 +54,6 @@ Actionable Advice:
 1. Draw out your Eisenhower Matrix
 2. After you finish Q1, focus most of your energy in Q2.
 
-This crappy MS Paint drawing sums it up well enough.
-
 ## 5. Do High Level Planning With Objectives and Key Results
 
 The thing I love about OKR's is that they're an entire system that you can simplify into a single sentence. Here's an example of an OKR I had recently.
