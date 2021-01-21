@@ -23,7 +23,7 @@ Actionable Advice:
 
 The second most impactful tip I've gotten from my time management research has been to use the Pomodoro Technique. 
 
-All you need to do is give yourself a **short, timed** period where **all you do** is focus on **one task.** Follow this up with a **short break**, and after four of these take a **long break**. Standard Pomo's seem to be twenty-five | five | thirty minutes long (Pomo | Short Break | Long Break).
+All you need to do is give yourself a **short, timed** period where **all you do** is focus on **one task.** Follow this up with a **short break**, and after four of these take a **long break**. Standard Pomo's seem to be twenty-five minutes, a five minute break, and a thirty minute break after four pomos.
 
 Actionable Advice:
 
@@ -45,7 +45,7 @@ Actionable Advice:
 
 The basic idea here is that every task has a relative importance and urgency. The trick with these tasks is the order in which you do them. This crappy MS Paint drawing sums it up well enough.
 
-![eisenhower-matrix.png](assets/images/eisenhower-matrix.png)
+![assets/images/eisenhower-matrix.png](assets/images/eisenhower-matrix.png)
 
 The most important lesson here is to focus on what's **important** and **not urgent** (Q2)! If you shift between Q1 and Q3 (as most people do), you always feel pressed for time. Instead, shift between Q1 and Q2 to enter a positive cycle that **prevents items from getting to Q1**! That's more time and less stress. What's not to love?
 
