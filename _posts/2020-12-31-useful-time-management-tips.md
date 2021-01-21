@@ -45,7 +45,7 @@ Actionable Advice:
 
 The basic idea here is that every task has a relative importance and urgency. The trick with these tasks is the order in which you do them. This crappy MS Paint drawing sums it up well enough.
 
-![/assets/images/eisenhower-matrix.png](assets/images/eisenhower-matrix.png)
+![eisenhower-matrix](/assets/images/eisenhower-matrix.png)
 
 The most important lesson here is to focus on what's **important** and **not urgent** (Q2)! If you shift between Q1 and Q3 (as most people do), you always feel pressed for time. Instead, shift between Q1 and Q2 to enter a positive cycle that **prevents items from getting to Q1**! That's more time and less stress. What's not to love?
 
