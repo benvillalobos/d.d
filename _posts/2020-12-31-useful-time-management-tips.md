@@ -56,7 +56,7 @@ Actionable Advice:
 
 ## 5. Do High Level Planning With Objectives and Key Results
 
-The thing I love about OKR's is that they're an entire system that you can simplify into a single sentence. Here's an example of an OKR I had recently.
+The thing I love about OKR's is that they're an entire system that you can simplify into a single sentence. Here's an example of my first OKR to help get the ball rolling.
 
 Example: [In November & December 2020] I want to *Improve my Process,* as measured by *planning out 14 days*, *committing to 1 hour of learning for 14 days*, *tracking 50 Pomodoro's*, and *integrating one new tool to improve my workflow*. 
 
@@ -64,9 +64,10 @@ The trick here is to make sure everything is **clear**, **achievable**, and **me
 
 Actionable Advice:
 
-1. Determine (in plain English) what your high level goals are for the next arbitrary period of time. *I want to _____.*
-2. Define roughly three **specific, measurable** results and actively track them. *As measured by _____.*
-3. If certain Key Results or Objectives aren't making headway, change them!
+1. Determine what your high level goals are. *I want to _____.*
+2. Define specific, measurable results and actively track them. *As measured by _____.*
+3. Assign a period of time you want to achieve these in.
+4. If certain Key Results or Objectives aren't making headway, change them!
 
 ## Some Sort of Conclusion
 
