@@ -23,6 +23,7 @@ search: true
 
 # Build settings
 markdown: kramdown
+theme: jekyll-theme-cayman
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -78,5 +79,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-theme: jekyll-theme-cayman
