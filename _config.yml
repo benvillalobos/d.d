@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: A Software Engineer's Journey
-email:
+title: doughnuts.dev
+email: ben@🍩.kz
 description: >- # this means to ignore newlines until "baseurl:"
   Ramblings of an introspective software engineer & serial hobbyist.
 twitter_username: 
@@ -27,7 +27,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 6 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -62,7 +62,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
       comments: true
       share: false
       related: true
@@ -80,5 +79,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-theme: jekyll-theme-cayman
