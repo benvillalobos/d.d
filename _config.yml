@@ -45,14 +45,14 @@ plugins:
 
 author:
   name   : "Ben Villalobos"
-  avatar : "/assets/images/site/face.jpg"
+  avatar : "/assets/images/posts/face.jpg"
   bio    : "Ramblings of an introspective software engineer & serial hobbyist."
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/BenVillalobos"
+      url: "  "
 
 defaults:
   # _posts
