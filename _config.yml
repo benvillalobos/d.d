@@ -61,10 +61,10 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
       comments: true
       share: false
       related: true
+      categories: true
   # _pages
   - scope:
       path: "_pages"
