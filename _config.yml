@@ -45,7 +45,7 @@ plugins:
 
 author:
   name   : "Ben Villalobos"
-  avatar : "/assets/images/posts/face.jpg"
+  avatar : "/assets/images/face.jpg"
   bio    : "Ramblings of an introspective software engineer & serial hobbyist."
 
 footer:
