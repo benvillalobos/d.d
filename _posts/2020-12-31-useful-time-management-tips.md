@@ -1,11 +1,11 @@
 ---
 title: "Useful Time Management Tips"
 categories:
+tags:
   - blog
   - self-improvement
   - productivity
   - time-management
-tags:
 ---
 
 I'm going to touch on some time management tips I've discovered that significantly impacted my productivity. Use this as a guide and do your own research to figure out what works best for you. Maybe one day I'll go into specifics on how I fine-tuned them to suit my needs.

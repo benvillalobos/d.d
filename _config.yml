@@ -52,7 +52,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "  "
+      url: "https://github.com/BenVillalobos"
 
 defaults:
   # _posts

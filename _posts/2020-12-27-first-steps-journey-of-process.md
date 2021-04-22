@@ -1,10 +1,10 @@
 ---
 title: "The First Steps on a Journey of Process"
 categories:
+tags:
   - blog
   - self-improvement
   - productivity
-tags:
 ---
 
 The last few months have been an incredible learning experience. I've discovered many issues with where I'm at and how I'm doing things. To put it simply, I want to do more. It started with falling behind at work. It gave me anxiety. It significantly impacted my mood every single day that I didn't feel "productive" enough. I hated it.
