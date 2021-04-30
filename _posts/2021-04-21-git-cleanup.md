@@ -2,11 +2,10 @@
 title: "Clean & Speed Up Your Local Git Repo With Three Commands"
 categories:
 tags:
-  - blog
-  - self-improvement
-  - productivity
-  - time-management
+  - dev
+  - tips
 ---
+
 Sometimes ya gotta force push or rebase and leave some commits behind. On a large repo with many commits and remotes, your git commands could actually slow down with too many objects floating around. Consider running these commands to help keep things in tip top shape.
 
 ### [git gc](https://git-scm.com/docs/git-gc)
