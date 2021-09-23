@@ -8,6 +8,7 @@ tags:
 In any given .NET build, you might notice two properties that effectively have the same meaning, `Platform` and `PlatformTarget`. But what the heck is the difference between the two, and why does `PlatformTarget` exist? Let’s go on this journey together.
 
 First of all, `PlatformTarget` is important because it’s passed to the compiler (among other important tasks)in `Microsoft.Common.CurrentVersion.targets` but that file does not define `PlatformTarget`. Weird, right? `PlatformTarget` being passed to these tasks has existed for 5+ years now, so `PlatformTarget` isn’t a “recent” concept. It is, however, defined in any .NET Framework project file. The fact that it’s defined in these older projects (based on `Configuration|Platform`) proves that it needs to be defined either in the project, or in some props/targets file before the `CoreCompile` target runs (from the Roslyn targets).
+
 This answers how `PlatformTarget` is set & used in legacy-style projects: `PlatformTarget` is defined to a specific value when building under a particular `Configuration|Platform`. It is then passed to the compiler and so on.
 
 This answers how `PlatformTarget` is set & used in legacy-style projects: `PlatformTarget` is defined to a specific value when building under a particular `Configuration|Platform`. It is then passed to the compiler and so on.
